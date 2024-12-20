@@ -1,6 +1,6 @@
 import React from 'react'
 import hero from '../assets/Hero.png'
-import facebook from '../assets/Facebook.png'
+import facebook from '../assets/facebook.png'
 import twitter from '../assets/Twitter.png'
 import linkedin from '../assets/Linkedin.png'
 import instagram from '../assets/Instagram.png'
